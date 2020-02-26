@@ -7,4 +7,6 @@ You need the `frotz` package to run this.
 
 `sudo apt install frotz`
 
+Fancy ssl config and authentication is all .gitignored
+
 -jcl
