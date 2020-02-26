@@ -9,4 +9,6 @@ You need the `frotz` package to run this.
 
 Fancy ssl config and authentication is all .gitignored
 
+*TODO: Get a ignorable config file to be interpreted by zorkX.sh*
+
 -jcl
